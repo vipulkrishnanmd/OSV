@@ -9,7 +9,7 @@ uint16 strlength(string ch)
         return --i;
 }
 
-/* Added in episode 3*/ /*This function compares two strings and returns true (1) if they are equal or false (0) if they are not equal */
+/* This function compares two strings and returns true (1) if they are equal or false (0) if they are not equal */
 
 uint8 strEql(string ch1,string ch2)                     
 {
