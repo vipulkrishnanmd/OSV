@@ -1,2 +1,2 @@
-# VipulzOS
+# OSV
 A simple OS
